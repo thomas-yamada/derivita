@@ -24,6 +24,14 @@
 
 1.3.3.16, Example 5, solve via completing the square, make sure radical expression DOES NOT simplify to an integer.
 
+1.6.3.2
+
+1.6.3.3
+
+1.6.3.4
+
+
+
 # DONE
 
 1.3.3.8
