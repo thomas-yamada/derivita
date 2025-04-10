@@ -20,16 +20,7 @@
 
 # DONE (not reported)
 
-1.3.5.14 Definition 5, dropdown problem for bolded words.
-
-1.3.3.16, Example 5, solve via completing the square, make sure radical expression DOES NOT simplify to an integer.
-
-1.6.3.2
-
-1.6.3.3
-
-1.6.3.4
-
+3.3.8 NEED TO FINISH FIXINGGGGG
 
 
 # DONE
@@ -39,3 +30,13 @@
 1.2.2.6
 
 1.3.3.9
+
+1.6.3.2
+
+1.6.3.3
+
+1.3.5.14 Definition 5, dropdown problem for bolded words.
+
+1.3.3.16, Example 5, solve via completing the square, make sure radical expression DOES NOT simplify to an integer.
+
+1.6.3.4
