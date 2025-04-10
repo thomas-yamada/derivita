@@ -39,7 +39,7 @@
 
 3.3.8 finished
 
-3.7 Slide 6 Euclid’s’ Division Lemma GAP FILL
+3.7.8 Slide 6 Euclid’s’ Division Lemma GAP FILL
     -Gaps:
         -b(x)≠0
         -r=0 or deg(r)<deg(b)
