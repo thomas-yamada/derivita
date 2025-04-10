@@ -16,7 +16,28 @@
     -Copy this example. 
     Notes: See 3.2.11 feedback to see how I made the sign diagram
 
+3.7 Slide 6 Euclid’s’ Division Lemma GAP FILL
+    -Gaps:
+        -b(x)≠0
+        -r=0 or deg(r)<deg(b)
+        -all bolded words
 
+3.7 Slide 7 An Important Interpretation GAP FILL
+    Notes: Give boxed equations.
+    -Gaps:
+        -difference function
+        -d(x) = a(x)/b(x) - q(x)
+        -“d(x) explicitly gives the difference between the rational function  and it’s _ the polynomial .
+
+
+3.7 Slide 34 FTA
+    Notes: dropdown and inline-fill in the blank
+    Every __ polynomial of degree [n≥1,n≥2,n≥3] has at least one complex zero.
+
+
+3.7 Slide 35 corollary
+    Every __ polynomial can be uniquely factored into a product of _ factors.
+(Also 3.3.8 (still not fixed))
 
 # DONE (not reported)
 
