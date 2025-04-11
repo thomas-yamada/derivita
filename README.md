@@ -33,7 +33,6 @@
 
 3.7 Slide 35 corollary
     Every __ polynomial can be uniquely factored into a product of _ factors.
-(Also 3.3.8 (still not fixed))
 
 # DONE (not reported)
 
@@ -44,6 +43,13 @@
         -b(x)≠0
         -r=0 or deg(r)<deg(b)
         -all bolded words
+
+3.7.9 Slide 7 An Important Interpretation GAP FILL
+    Notes: Give boxed equations.
+    -Gaps:
+        -difference function
+        -d(x) = a(x)/b(x) - q(x)
+        -“d(x) explicitly gives the difference between the rational function  and it’s _ the polynomial .
 
         
 
