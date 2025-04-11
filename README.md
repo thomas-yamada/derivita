@@ -16,9 +16,7 @@
     -Copy this example. 
     Notes: See 3.2.11 feedback to see how I made the sign diagram
 
-3.7 Slide 34 FTA
-    Notes: dropdown and inline-fill in the blank
-    Every __ polynomial of degree [n≥1,n≥2,n≥3] has at least one complex zero.
+
 
 
 3.7 Slide 35 corollary
@@ -41,7 +39,9 @@
         -d(x) = a(x)/b(x) - q(x)
         -“d(x) explicitly gives the difference between the rational function  and it’s _ the polynomial .
 
-        
+3.7.10 Slide 34 FTA
+    Notes: dropdown and inline-fill in the blank
+    Every __ polynomial of degree [n≥1,n≥2,n≥3] has at least one complex zero.
 
 
 # DONE
