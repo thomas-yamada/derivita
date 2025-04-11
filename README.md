@@ -16,12 +16,6 @@
     -Copy this example. 
     Notes: See 3.2.11 feedback to see how I made the sign diagram
 
-
-
-
-3.7 Slide 35 corollary
-    Every __ polynomial can be uniquely factored into a product of _ factors.
-
 # DONE (not reported)
 
 3.3.8 finished
@@ -43,6 +37,8 @@
     Notes: dropdown and inline-fill in the blank
     Every __ polynomial of degree [n≥1,n≥2,n≥3] has at least one complex zero.
 
+3.7.11 Slide 35 corollary
+    Every __ polynomial can be uniquely factored into a product of _ factors.
 
 # DONE
 
