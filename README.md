@@ -14,7 +14,9 @@
 
 3.5 Example 6
     -Copy this example. 
-    Notes: See 3.2.11 feedback to see how I made the sign diagram
+    Notes: See 3.2.11 feedback to see how I made the sign diagram.
+
+
 
 # DONE (not reported)
 
