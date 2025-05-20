@@ -26,6 +26,12 @@
     (b) Solve the equation for x.
     Notes: Randomize input variable random_item(x,t,s). Randomize base: random(2,5). Randomize constants, but be mindful of the size of things. See Q2.1.25 for set builder notation example. In the feedback, show a graph of the lefthand and righthand side of the equation, showing the solution. For the solutions, mimic the solution on slide 29. Important note: students only know the inversion formula at this point, not how to take logs of both sides.
 
+**1.4.3.8** 4.3 Example 5
+    Consider the equation log_x(a)=b.
+    (a) State the domain of the variable in interval and set-builder notation.
+    (b) Solve the equation for x.
+    Notes: Randomize input variable random_item(x,t). Randomize constants, but be mindful of the size of things. See Q2.1.25 for set builder notation example, this one will be bit tricky. For the solutions, mimic the solution on slide 30. Important note: students only know the inversion formula at this point, not how to take logs of both sides.
+
 
 
 # DONE
