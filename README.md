@@ -59,7 +59,7 @@
     (b) Find a and give the complete factored form.
     Notes: roots should be +/- integers. Roots should be given as x-values, not points. Coordinates of third point should be +/- integers. Solution should have a graph of the parabola.
 
-3.4 Example 2
+**1.3.4.8** 3.4 Example 2
     -Duplicate question above but make the two roots square roots of non-perfect squares.
 
 # DONE
