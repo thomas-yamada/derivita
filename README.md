@@ -1,16 +1,12 @@
 # TODO
 
-
-
-
-
 3.5 Example 6
     -Copy this example. 
     Notes: See 3.2.11 feedback to see how I made the sign diagram.
 
-
-
 # DONE (not reported)
+
+# DONE
 
 **1.4.3.5** 4.3 Example 4
     Consider the equation log_a(bx+c) = d.
@@ -63,8 +59,6 @@
 
 **1.3.4.9** 3.4 Example 1
     -Duplicate question above but make numbers decimals with 1 decimal place.
-
-# DONE
 
 1.3.3.8
 
