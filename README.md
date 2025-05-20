@@ -2,8 +2,7 @@
 
 
 
-3.4 Example 1
-    -Duplicate question above but make numbers decimals with 1 decimal place.
+
 
 3.5 Example 6
     -Copy this example. 
@@ -61,6 +60,9 @@
 
 **1.3.4.8** 3.4 Example 2
     -Duplicate question above but make the two roots square roots of non-perfect squares.
+
+**1.3.4.9** 3.4 Example 1
+    -Duplicate question above but make numbers decimals with 1 decimal place.
 
 # DONE
 
