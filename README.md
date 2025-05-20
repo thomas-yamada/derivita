@@ -38,6 +38,9 @@
     (b) Solve the equation for x.
     Notes: Randomize input variable random_item(x,t,s). Randomize constants, but be mindful of the size of things. See Q2.1.25 for set builder notation example, this one will have an xinR/tinR/sinR option. For the solutions, mimic the solution on slide 31. Important note: students only know the inversion formula at this point, not the laws of logs.
 
+**1.4.4.4** 4.4 Prop 5
+    Fill in the blank, inline:= true
+
 
 
 
