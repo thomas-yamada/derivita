@@ -50,7 +50,15 @@
     (e) a^x= e^{(ln a)x}
     Notes: randomize parts using Justin’s randomization protocol.
 
-
+**1.4.4.6** 4.4 Base of e conversions
+    Write the following exponential expressions with a base of e.
+    (a) a^x    a=random(2,10)
+    (b) a^x     a=random(1.1,10,step:=0.001)
+    (c) a^x     a=random nth_root
+    (d) a^{-x} a=random(2,10)
+    (e) a^{kx} a=random(2,10), k=random_exclude(-10,10,0)
+    (f) a^{x+c} a=random(1.1,10,step:=0.001), c=random_exclude(-10,10,0)
+    (g) a^{x^p} a=random(2,10) or pi
 
 
 # DONE
