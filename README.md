@@ -1,10 +1,6 @@
 # TODO
 
-**1.3.4.7** 3.4 Example 1
-    Give two zeros and a third point. 
-    (a) Ask student to enter the factored form a(x-r1)(x-r2)
-    (b) Find a and give the complete factored form.
-    Notes: roots should be +/- integers. Roots should be given as x-values, not points. Coordinates of third point should be +/- integers. Solution should have a graph of the parabola.
+
 
 3.4 Example 1
     -Duplicate question above but make numbers decimals with 1 decimal place.
@@ -60,6 +56,11 @@
     (f) a^{x+c} a=random(1.1,10,step:=0.001), c=random_exclude(-10,10,0)
     (g) a^{x^p} a=random(2,10) or pi
 
+**1.3.4.7** 3.4 Example 1
+    Give two zeros and a third point. 
+    (a) Ask student to enter the factored form a(x-r1)(x-r2)
+    (b) Find a and give the complete factored form.
+    Notes: roots should be +/- integers. Roots should be given as x-values, not points. Coordinates of third point should be +/- integers. Solution should have a graph of the parabola.
 
 # DONE
 
