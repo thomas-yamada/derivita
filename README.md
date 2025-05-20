@@ -41,6 +41,15 @@
 **1.4.4.4** 4.4 Prop 5
     Fill in the blank, inline:= true
 
+**1.4.4.5** 4.4 Prop 5
+    Multiple parts:
+    (a) T/F log_a(m+n) = log_am + log_an
+    (b) T/F log_a(m-n) = log_am - log_an
+    (c) T/F log_a(mn) = (log_am)(log_an)
+    (d) T/F log_a(m/n) = (log_am)/(log_an)
+    (e) a^x= e^{(ln a)x}
+    Notes: randomize parts using Justin’s randomization protocol.
+
 
 
 
