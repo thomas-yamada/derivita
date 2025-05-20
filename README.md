@@ -1,6 +1,6 @@
 # TODO
 
-3.4 Example 1
+**1.3.4.7** 3.4 Example 1
     Give two zeros and a third point. 
     (a) Ask student to enter the factored form a(x-r1)(x-r2)
     (b) Find a and give the complete factored form.
