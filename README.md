@@ -32,6 +32,13 @@
     (b) Solve the equation for x.
     Notes: Randomize input variable random_item(x,t). Randomize constants, but be mindful of the size of things. See Q2.1.25 for set builder notation example, this one will be bit tricky. For the solutions, mimic the solution on slide 30. Important note: students only know the inversion formula at this point, not how to take logs of both sides.
 
+**1.4.3.9** 4.3 Example 6
+    Consider the equation e^{ax}=b.
+    (a) State the domain of the variable in interval and set-builder notation.
+    (b) Solve the equation for x.
+    Notes: Randomize input variable random_item(x,t,s). Randomize constants, but be mindful of the size of things. See Q2.1.25 for set builder notation example, this one will have an xinR/tinR/sinR option. For the solutions, mimic the solution on slide 31. Important note: students only know the inversion formula at this point, not the laws of logs.
+
+
 
 
 # DONE
