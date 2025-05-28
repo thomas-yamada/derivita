@@ -14,7 +14,9 @@ a := 1/2
 roots_list := [z1,z2,z3,z4]
 #create a list of factors
 factor_list := fill_list(item_count(roots_list), simplify(x-nth_item(index, roots_list)))
-#get the product of your initial factor list
+
+
+#poly_multiplied is your polynomial WITHOUT the "a" distributed over to everything. if this has fractions where you have a variable in the numerator of a fraction, use the file leading_fraction_from_polynomial.r
 poly_multiplied := compute(product(factor_list))
 #use that polynomial (without having multiplied over your a) and split them until each term's constant and variable(s)
 is_match($c1:n$t1:term + $c2:n$t2:term + $c3:n$t3:term + $c4:n$t4:term + $c5:n$t5:term + $c6:n$t6:term + $c7:n$t7:term + $c8:n$t8:term + $c9:n$t9:term + $c10:n$t10:term, poly_multiplied)
