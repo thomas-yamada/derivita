@@ -70,6 +70,14 @@
 
 1.6.3.3
 
+1.3.6.9 3.6 Slide 11 complex number definition gap fill
+    -Except for “complex number”, make the bold words gaps, including a+bi. Include extra distractors.
+
+1.3.6.10 3.6 Example 1
+    Notes: 5 parts, abcde. Present complex number and ask students to enter the real and imaginary part. Make sure every possibility is covered, as in the example. Have at least one use decimals. Use Justin’s randomization protocol for randomizing the presented complex numbers. See 1.1.5 for randomization protocol.
+
+
+
 1.3.5.14 Definition 5, dropdown problem for bolded words.
 
 1.3.3.16, Example 5, solve via completing the square, make sure radical expression DOES NOT simplify to an integer.
@@ -97,3 +105,28 @@
 
 3.7.11 Slide 35 corollary
     Every __ polynomial can be uniquely factored into a product of _ factors.
+
+2.2.3 Section 2.2
+    Given the equation, is y a function of x? Is x a function of y? Both? Or neither? Select all that apply.
+    (a) y=mx+b
+    (b) y=x^even, powers := [2,4,6,8,10]
+    (c) y=x^odd, powers := [3,5,7,9,11]
+    (d) y=ax^3+bx^2+c, a,b,c in random(2,10) 
+    (e) (x/a)^2 +(y/b)^2=1, a,b in random_exclude(-10,10,0)
+    (f) x^3+y^3=axy, a:=random(1,20)
+    Notes: Multiple choice, no shuffle, allow_multiple:=true. For the solutions, provide an interactive Desmos graph for each equation that has a movable horizontal and vertical line to show intersections with the graph.
+
+2.2.4 Section 2.2
+    Given the graphs below, which represent functions of x? Functions of y? Both? neither?
+    (a) y=mx+b
+    (b) y=x^even, powers := [2,4,6,8,10]
+    (b) (t^2,t)
+    (c) (at^3+bt^2+c,t) a,b,c in random(2,10) 
+    (d) (4sin(4t),3sin(3t)) 0≤t≤2π (Lissajous curve)
+    Notes: Multiple choice, no shuffle, allow_multiple:=true. For the solutions, provide an interactive Desmos graph for each equation that has a movable horizontal and vertical line to show intersections with the graph. Note that this means there are 8 graphs in this question: 4 static graphs in the prompt, and 4 interactive graphs in the solution.
+
+2.6.12 2.6 Inverse Functions Rodas - Question 13- Section 2.6
+
+3.2.4 3.2 - Factoring Quadratics - Rodas - Question 6
+
+
