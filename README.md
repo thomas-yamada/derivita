@@ -4,7 +4,39 @@
     -Copy this example. 
     Notes: See 3.2.11 feedback to see how I made the sign diagram.
 
+
+5.3 Slide 6/7 Series definition fill in and dropdown
+    An infinite series (or simply series) is an infinite summation, denoted by
+    \sum_{i=1}^\infty a_i = __
+    where ai is a [sequence] indexed by __.
+
+If we only add up n of the terms, we get a [partial sum]:
+__ = \sum{i=1}^n ai = __.
+
+
+5.3 Slide 14 Properties of Sums
+    Let {a_k} and {b_k} be sequences and let c be a real number. Then:
+    (1) … let’s talk about this one.
+
+Hey Thomas, I'm assigning you these 3 problems:
+
+6.9 Example 4
+    Same as this example but randomize angle shift as a multiple of π/3. Ask for general solutions and solutions in [0,2π). Solution should show graph.
+
+
+6.9 Example 5
+    Notes: use cos(theta). randomize angle output value. Ask for general solutions and solutions in [0,2π). Solution should show graph.
+
+6.9 Example 5
+    Same as above but with cos(theta).
+You may not be able to use the exact same code as I wrote for the current 6.9 problems, but it should be easy to modify for these questions.  In particular for the Example 5 problems, I think you only need to modify the display equation and the solution steps.
+
 # DONE (not reported)
+
+5.3 Slide 5 Fill in the blank and dropdown (not all dropdown)
+    Summation Notation (or sigma notation)
+= \sum_{i=1}^n ai = __.
+i is called the [index]. In this case 1 is called the [starting index] and n is the [final index].
 
 # DONE
 
