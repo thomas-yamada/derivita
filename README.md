@@ -33,7 +33,7 @@ You may not be able to use the exact same code as I wrote for the current 6.9 pr
 
 # DONE (not reported)
 
-5.3 Slide 5 Fill in the blank and dropdown (not all dropdown)
+**5.3.11** 5.3 Slide 5 Fill in the blank and dropdown (not all dropdown)
     Summation Notation (or sigma notation)
 = \sum_{i=1}^n ai = __.
 i is called the [index]. In this case 1 is called the [starting index] and n is the [final index].
