@@ -31,6 +31,24 @@ Hey Thomas, I'm assigning you these 3 problems:
     Same as above but with cos(theta).
 You may not be able to use the exact same code as I wrote for the current 6.9 problems, but it should be easy to modify for these questions.  In particular for the Example 5 problems, I think you only need to modify the display equation and the solution steps.
 
+6.2 Angular and linear velocity
+    Find the angular and linear velocity of an object moving in circular motion given the radius and angle.
+    (a) r := random(2,10), theta := random(radian measure less than 2π)
+    (b) r := random_exclude(2,10,a), random(degree measure less than 360)
+    (c) r := random(2,10), theta := random(negative radian measure less than 2π)
+
+
+
+6.2 Angular and linear velocity
+    An object is traveling around a circle with a radius r := random(2,10) feet/meters (randomize). The object travels s := random(5,20) feet/meters in t := random(10,60) seconds. What is the angular and linear velocity?
+
+
+
+6.2 Angular and linear velocity question about the large hadron collider. Give circumference: 26.7 km. Give particle revs per second: 11,245 revs/sec. 
+    (a) angular velocity
+    (b) linear velocity
+    (c) Given the speed of light is about 299,792,458 m/sec, what percentage of the speed of light is the linear velocity? Give answer to [7] decimal places (Should be 99.9999991%).
+
 # DONE (not reported)
 
 **5.3.11** 5.3 Slide 5 Fill in the blank and dropdown (not all dropdown)
