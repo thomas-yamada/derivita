@@ -5,13 +5,7 @@
     Notes: See 3.2.11 feedback to see how I made the sign diagram.
 
 
-5.3 Slide 6/7 Series definition fill in and dropdown
-    An infinite series (or simply series) is an infinite summation, denoted by
-    \sum_{i=1}^\infty a_i = __
-    where ai is a [sequence] indexed by __.
 
-If we only add up n of the terms, we get a [partial sum]:
-__ = \sum{i=1}^n ai = __.
 
 
 5.3 Slide 14 Properties of Sums
@@ -51,12 +45,20 @@ You may not be able to use the exact same code as I wrote for the current 6.9 pr
 
 # DONE (not reported)
 
+# DONE
+
+**5.3.12** Slide 6/7 Series definition fill in and dropdown
+    An infinite series (or simply series) is an infinite summation, denoted by
+    \sum_{i=1}^\infty a_i = __
+    where ai is a [sequence] indexed by __.
+
+If we only add up n of the terms, we get a [partial sum]:
+__ = \sum{i=1}^n ai = __.
+
 **5.3.11** 5.3 Slide 5 Fill in the blank and dropdown (not all dropdown)
     Summation Notation (or sigma notation)
 = \sum_{i=1}^n ai = __.
 i is called the [index]. In this case 1 is called the [starting index] and n is the [final index].
-
-# DONE
 
 **1.4.3.5** 4.3 Example 4
     Consider the equation log_a(bx+c) = d.
